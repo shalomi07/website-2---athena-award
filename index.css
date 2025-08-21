@@ -1,0 +1,12 @@
+@media (max-width: 600){
+    .body p{
+        font-size: 12px;
+    }
+    .body h2{
+        font-size: 14px;
+    }
+}
+nav {
+    background-color: #ffd06c;
+    padding: 10px;
+}
